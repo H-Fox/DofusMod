@@ -1,0 +1,13 @@
+{
+  "itemGroup.dofusmod": "Example Mod Tab",
+  "block.dofusmod.example_block": "Example Block",
+  "item.dofusmod.example_item": "Example Item",
+
+  "dofusmod.configuration.title": "DofusMod Configs",
+  "dofusmod.configuration.section.dofusmod.common.toml": "DofusMod Configs",
+  "dofusmod.configuration.section.dofusmod.common.toml.title": "DofusMod Configs",
+  "dofusmod.configuration.items": "Item List",
+  "dofusmod.configuration.logDirtBlock": "Log Dirt Block",
+  "dofusmod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "dofusmod.configuration.magicNumber": "Magic Number"
+}
